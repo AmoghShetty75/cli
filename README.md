@@ -6,7 +6,7 @@ CLI to work with your AsyncAPI files. Currently under development, we are workin
 [![PR testing - if Node project](https://github.com/asyncapi/cli/actions/workflows/if-nodejs-pr-testing.yml/badge.svg)](https://github.com/asyncapi/cli/actions/workflows/if-nodejs-pr-testing.yml)
 [![npm](https://img.shields.io/npm/dw/@asyncapi/cli)](https://www.npmjs.com/package/@asyncapi/cli)
 
-## Table of contents
+## Table of content
 
 <!-- toc -->
 
